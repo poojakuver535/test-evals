@@ -1,0 +1,9 @@
+medinote_clinical_eval:
+  id: medinote_clinical_eval.dev.v0
+  description: Evaluate clinical note generation from doctor-patient conversations
+  metrics: [accuracy]
+
+medinote_clinical_eval.dev.v0:
+  class: evals.elsuite.basic.match:Match
+  args:
+    samples_jsonl: medinote_clinical_eval/samples.jsonl
