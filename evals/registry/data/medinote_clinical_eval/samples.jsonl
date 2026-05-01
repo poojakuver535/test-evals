@@ -1,0 +1,5 @@
+{"input": "Doctor: What brings you in?\nPatient: I have had fever and headache for 2 days", "ideal": "Patient presents with fever and headache for 2 days."}
+{"input": "Doctor: Any issues?\nPatient: I feel chest pain while breathing", "ideal": "Patient reports chest pain aggravated by breathing."}
+{"input": "Doctor: Symptoms?\nPatient: Cough and sore throat since yesterday", "ideal": "Patient presents with cough and sore throat since yesterday."}
+{"input": "Doctor: What problem?\nPatient: Feeling tired and dizzy", "ideal": "Patient complains of fatigue and dizziness."}
+{"input": "Doctor: Since when?\nPatient: Stomach pain for 3 days", "ideal": "Patient reports abdominal pain for 3 days."}
